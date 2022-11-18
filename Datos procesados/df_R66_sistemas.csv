@@ -1,0 +1,127 @@
+Year,occupation,occupation_code,industry,naics_code,age_group,days_away,cases,total_cases,median_days
+2017,Computer and Information Systems Managers,113020.0,,,,1 day,50.0,140.0,4.0
+2017,Computer and Information Systems Managers,113021.0,,,,1 day,50.0,140.0,4.0
+2017,Computer and Mathematical Occupations,150000.0,,,,1 day,210.0,1300.0,5.0
+2017,Computer Occupations,151100.0,,,,1 day,200.0,1190.0,5.0
+2017,Computer and Information Analysts,151120.0,,,,1 day,20.0,70.0,5.0
+2017,Computer Systems Analysts,151121.0,,,,1 day,20.0,50.0,5.0
+2017,Software Developers and Programmers,151130.0,,,,1 day,20.0,130.0,14.0
+2017,Computer Programmers,151131.0,,,,1 day,,20.0,2.0
+2017,"Software Developers, Applications",151132.0,,,,1 day,,30.0,15.0
+2017,"Software Developers, Systems Software",151133.0,,,,1 day,,80.0,14.0
+2017,Database and Systems Administrators and Network Architects,151140.0,,,,1 day,30.0,260.0,5.0
+2017,Network and Computer Systems Administrators,151142.0,,,,1 day,,200.0,11.0
+2017,Computer Network Architects,151143.0,,,,1 day,30.0,40.0,1.0
+2017,Computer Support Specialists,151150.0,,,,1 day,60.0,450.0,10.0
+2017,Computer User Support Specialists,151151.0,,,,1 day,,200.0,16.0
+2017,Computer Network Support Specialists,151152.0,,,,1 day,50.0,250.0,5.0
+2017,Miscellaneous Computer Occupations,151190.0,,,,1 day,60.0,270.0,3.0
+2017,"Computer Occupations, All Other",151199.0,,,,1 day,60.0,270.0,3.0
+2017,Computer and Information Systems Managers,113020.0,,,,2 days,,140.0,4.0
+2017,Computer and Information Systems Managers,113021.0,,,,2 days,,140.0,4.0
+2017,Computer and Mathematical Occupations,150000.0,,,,2 days,170.0,1300.0,5.0
+2017,Computer Occupations,151100.0,,,,2 days,130.0,1190.0,5.0
+2017,Computer and Information Analysts,151120.0,,,,2 days,,70.0,5.0
+2017,Computer Systems Analysts,151121.0,,,,2 days,,50.0,5.0
+2017,Software Developers and Programmers,151130.0,,,,2 days,20.0,130.0,14.0
+2017,Computer Programmers,151131.0,,,,2 days,,20.0,2.0
+2017,"Software Developers, Applications",151132.0,,,,2 days,,30.0,15.0
+2017,"Software Developers, Systems Software",151133.0,,,,2 days,,80.0,14.0
+2017,Database and Systems Administrators and Network Architects,151140.0,,,,2 days,70.0,260.0,5.0
+2017,Network and Computer Systems Administrators,151142.0,,,,2 days,70.0,200.0,11.0
+2017,Computer Network Architects,151143.0,,,,2 days,,40.0,1.0
+2017,Computer Support Specialists,151150.0,,,,2 days,20.0,450.0,10.0
+2017,Computer User Support Specialists,151151.0,,,,2 days,,200.0,16.0
+2017,Computer Network Support Specialists,151152.0,,,,2 days,20.0,250.0,5.0
+2017,Miscellaneous Computer Occupations,151190.0,,,,2 days,,270.0,3.0
+2017,"Computer Occupations, All Other",151199.0,,,,2 days,,270.0,3.0
+2017,Computer and Information Systems Managers,113020.0,,,,3 to 5 days,30.0,140.0,4.0
+2017,Computer and Information Systems Managers,113021.0,,,,3 to 5 days,30.0,140.0,4.0
+2017,Computer and Mathematical Occupations,150000.0,,,,3 to 5 days,300.0,1300.0,5.0
+2017,Computer Occupations,151100.0,,,,3 to 5 days,290.0,1190.0,5.0
+2017,Computer and Information Analysts,151120.0,,,,3 to 5 days,,70.0,5.0
+2017,Computer Systems Analysts,151121.0,,,,3 to 5 days,,50.0,5.0
+2017,Software Developers and Programmers,151130.0,,,,3 to 5 days,20.0,130.0,14.0
+2017,Computer Programmers,151131.0,,,,3 to 5 days,,20.0,2.0
+2017,"Software Developers, Applications",151132.0,,,,3 to 5 days,,30.0,15.0
+2017,"Software Developers, Systems Software",151133.0,,,,3 to 5 days,20.0,80.0,14.0
+2017,Database and Systems Administrators and Network Architects,151140.0,,,,3 to 5 days,20.0,260.0,5.0
+2017,Network and Computer Systems Administrators,151142.0,,,,3 to 5 days,20.0,200.0,11.0
+2017,Computer Network Architects,151143.0,,,,3 to 5 days,,40.0,1.0
+2017,Computer Support Specialists,151150.0,,,,3 to 5 days,100.0,450.0,10.0
+2017,Computer User Support Specialists,151151.0,,,,3 to 5 days,40.0,200.0,16.0
+2017,Computer Network Support Specialists,151152.0,,,,3 to 5 days,60.0,250.0,5.0
+2017,Miscellaneous Computer Occupations,151190.0,,,,3 to 5 days,130.0,270.0,3.0
+2017,"Computer Occupations, All Other",151199.0,,,,3 to 5 days,130.0,270.0,3.0
+2017,Computer and Information Systems Managers,113020.0,,,,6 to 10 days,,140.0,4.0
+2017,Computer and Information Systems Managers,113021.0,,,,6 to 10 days,,140.0,4.0
+2017,Computer and Mathematical Occupations,150000.0,,,,6 to 10 days,120.0,1300.0,5.0
+2017,Computer Occupations,151100.0,,,,6 to 10 days,120.0,1190.0,5.0
+2017,Computer and Information Analysts,151120.0,,,,6 to 10 days,,70.0,5.0
+2017,Computer Systems Analysts,151121.0,,,,6 to 10 days,,50.0,5.0
+2017,Software Developers and Programmers,151130.0,,,,6 to 10 days,,130.0,14.0
+2017,Computer Programmers,151131.0,,,,6 to 10 days,,20.0,2.0
+2017,"Software Developers, Applications",151132.0,,,,6 to 10 days,,30.0,15.0
+2017,"Software Developers, Systems Software",151133.0,,,,6 to 10 days,,80.0,14.0
+2017,Database and Systems Administrators and Network Architects,151140.0,,,,6 to 10 days,,260.0,5.0
+2017,Network and Computer Systems Administrators,151142.0,,,,6 to 10 days,,200.0,11.0
+2017,Computer Network Architects,151143.0,,,,6 to 10 days,,40.0,1.0
+2017,Computer Support Specialists,151150.0,,,,6 to 10 days,80.0,450.0,10.0
+2017,Computer User Support Specialists,151151.0,,,,6 to 10 days,30.0,200.0,16.0
+2017,Computer Network Support Specialists,151152.0,,,,6 to 10 days,60.0,250.0,5.0
+2017,Miscellaneous Computer Occupations,151190.0,,,,6 to 10 days,,270.0,3.0
+2017,"Computer Occupations, All Other",151199.0,,,,6 to 10 days,,270.0,3.0
+2017,Computer and Information Systems Managers,113020.0,,,,11 to 20 days,,140.0,4.0
+2017,Computer and Information Systems Managers,113021.0,,,,11 to 20 days,,140.0,4.0
+2017,Computer and Mathematical Occupations,150000.0,,,,11 to 20 days,160.0,1300.0,5.0
+2017,Computer Occupations,151100.0,,,,11 to 20 days,160.0,1190.0,5.0
+2017,Computer and Information Analysts,151120.0,,,,11 to 20 days,,70.0,5.0
+2017,Computer Systems Analysts,151121.0,,,,11 to 20 days,,50.0,5.0
+2017,Software Developers and Programmers,151130.0,,,,11 to 20 days,40.0,130.0,14.0
+2017,Computer Programmers,151131.0,,,,11 to 20 days,,20.0,2.0
+2017,"Software Developers, Applications",151132.0,,,,11 to 20 days,,30.0,15.0
+2017,"Software Developers, Systems Software",151133.0,,,,11 to 20 days,30.0,80.0,14.0
+2017,Database and Systems Administrators and Network Architects,151140.0,,,,11 to 20 days,40.0,260.0,5.0
+2017,Network and Computer Systems Administrators,151142.0,,,,11 to 20 days,30.0,200.0,11.0
+2017,Computer Network Architects,151143.0,,,,11 to 20 days,,40.0,1.0
+2017,Computer Support Specialists,151150.0,,,,11 to 20 days,70.0,450.0,10.0
+2017,Computer User Support Specialists,151151.0,,,,11 to 20 days,60.0,200.0,16.0
+2017,Computer Network Support Specialists,151152.0,,,,11 to 20 days,,250.0,5.0
+2017,Miscellaneous Computer Occupations,151190.0,,,,11 to 20 days,,270.0,3.0
+2017,"Computer Occupations, All Other",151199.0,,,,11 to 20 days,,270.0,3.0
+2017,Computer and Information Systems Managers,113020.0,,,,21 to 30 days,,140.0,4.0
+2017,Computer and Information Systems Managers,113021.0,,,,21 to 30 days,,140.0,4.0
+2017,Computer and Mathematical Occupations,150000.0,,,,21 to 30 days,70.0,1300.0,5.0
+2017,Computer Occupations,151100.0,,,,21 to 30 days,60.0,1190.0,5.0
+2017,Computer and Information Analysts,151120.0,,,,21 to 30 days,,70.0,5.0
+2017,Computer Systems Analysts,151121.0,,,,21 to 30 days,,50.0,5.0
+2017,Software Developers and Programmers,151130.0,,,,21 to 30 days,,130.0,14.0
+2017,Computer Programmers,151131.0,,,,21 to 30 days,,20.0,2.0
+2017,"Software Developers, Applications",151132.0,,,,21 to 30 days,,30.0,15.0
+2017,"Software Developers, Systems Software",151133.0,,,,21 to 30 days,,80.0,14.0
+2017,Database and Systems Administrators and Network Architects,151140.0,,,,21 to 30 days,20.0,260.0,5.0
+2017,Network and Computer Systems Administrators,151142.0,,,,21 to 30 days,20.0,200.0,11.0
+2017,Computer Network Architects,151143.0,,,,21 to 30 days,,40.0,1.0
+2017,Computer Support Specialists,151150.0,,,,21 to 30 days,30.0,450.0,10.0
+2017,Computer User Support Specialists,151151.0,,,,21 to 30 days,,200.0,16.0
+2017,Computer Network Support Specialists,151152.0,,,,21 to 30 days,,250.0,5.0
+2017,Miscellaneous Computer Occupations,151190.0,,,,21 to 30 days,,270.0,3.0
+2017,"Computer Occupations, All Other",151199.0,,,,21 to 30 days,,270.0,3.0
+2017,Computer and Information Systems Managers,113020.0,,,,31 or more days,20.0,140.0,4.0
+2017,Computer and Information Systems Managers,113021.0,,,,31 or more days,20.0,140.0,4.0
+2017,Computer and Mathematical Occupations,150000.0,,,,31 or more days,270.0,1300.0,5.0
+2017,Computer Occupations,151100.0,,,,31 or more days,240.0,1190.0,5.0
+2017,Computer and Information Analysts,151120.0,,,,31 or more days,20.0,70.0,5.0
+2017,Computer Systems Analysts,151121.0,,,,31 or more days,,50.0,5.0
+2017,Software Developers and Programmers,151130.0,,,,31 or more days,30.0,130.0,14.0
+2017,Computer Programmers,151131.0,,,,31 or more days,,20.0,2.0
+2017,"Software Developers, Applications",151132.0,,,,31 or more days,,30.0,15.0
+2017,"Software Developers, Systems Software",151133.0,,,,31 or more days,,80.0,14.0
+2017,Database and Systems Administrators and Network Architects,151140.0,,,,31 or more days,60.0,260.0,5.0
+2017,Network and Computer Systems Administrators,151142.0,,,,31 or more days,50.0,200.0,11.0
+2017,Computer Network Architects,151143.0,,,,31 or more days,,40.0,1.0
+2017,Computer Support Specialists,151150.0,,,,31 or more days,80.0,450.0,10.0
+2017,Computer User Support Specialists,151151.0,,,,31 or more days,50.0,200.0,16.0
+2017,Computer Network Support Specialists,151152.0,,,,31 or more days,40.0,250.0,5.0
+2017,Miscellaneous Computer Occupations,151190.0,,,,31 or more days,40.0,270.0,3.0
+2017,"Computer Occupations, All Other",151199.0,,,,31 or more days,40.0,270.0,3.0
